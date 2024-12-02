@@ -22,3 +22,16 @@
    ```sh
    python combinacoes.py
 
+## Exemplo de saída
+
+   ```
+   $ python combinacoes.py
+Análise de Combinações e Permutações
+Digite o valor de n (total de elementos): 10
+Digite o valor de r (elementos a serem escolhidos): 2
+
+Combinação de 10 elementos tomados 2 a 2: C(n, r) = 45
+Permutação de 10 elementos tomados 2 a 2: P(n, r) = 90
+
+```
+
