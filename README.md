@@ -9,7 +9,7 @@
 
 ## Requisitos
 
-- Python 3.x
+- Python
 
 ## Execução
 
